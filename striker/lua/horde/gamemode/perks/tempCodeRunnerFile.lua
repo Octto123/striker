@@ -1,0 +1,1 @@
+util.BlastDamageInfo(dmginfo, ply:GetPos(), 100)
